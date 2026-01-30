@@ -10,7 +10,7 @@
   },
   "include": [
     "src/**/*.ts"
-  ],
+, "../tp-products/tp-products/src/app/injproducts.ts"  ],
   "exclude": [
     "src/**/*.spec.ts"
   ]
